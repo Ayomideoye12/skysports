@@ -1,0 +1,154 @@
+body{
+  margin: 0;
+  background-color: rgb(211, 208, 208);
+
+}
+#head{
+  display: flex;
+  position: relative;
+}
+#ok{
+  width: 25%;
+  height: 30px;
+  background-color: blue;
+  font-family: tahoma;
+  color: white;
+  padding: 70px 3px 30px 300px;
+  margin-left: 0px;
+  
+  
+  box-sizing: border-box;
+  border-style: hidden;
+
+
+}
+#letter{
+  width: 75%;
+  height: 30px;
+  background-color: red;
+  font-family: tahoma;
+  padding: 70px 3px 30px 300px;
+  box-sizing: border-box;
+  border-style: hidden;
+  margin-left: -5px;
+  display: flex;
+  
+
+}
+#bag{
+  width: 100%;
+  height: 80px;
+  font-family: tahoma;
+
+  background-color: white;
+  box-sizing: border-box;
+  margin-top: 0;
+  margin-bottom: -25px;
+}
+ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+li{
+  float: left;
+  margin-top: 30px;
+}
+a:link{
+  color: #000;
+  width: 100px;
+  text-decoration: none;
+  display: inline;
+  text-align: center;
+  padding: 0px;
+  font-size: 18px;
+  font-family: tahoma;
+  margin-top: 5px;
+  margin-left: 30px;
+}
+h3{
+  margin-top: -40px;
+}
+#head2{
+  margin-left: -300px;
+  color: white;
+  font-size: 40px;
+  width: 30%;
+}
+#head1{
+margin-left: -37px;
+font-size: 40px;
+
+}
+
+
+input{
+  height: 20px;
+  margin-top: -25px;
+  background-color: red;
+  border: solid 1px;
+  border-color: grey;
+  
+}
+::placeholder{
+  color: white;
+  opacity: 0.5;
+}
+#head3{
+  margin-left: 450px;
+  font-size: 15px;
+  margin-top: -25px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#ball{
+  margin-left: 500px;
+  margin-top: 30px;
+  size: 25px;
+}
+
+#balll{
+  height: 300px;
+  width: 800px;
+  display: flex;
+  margin-top: 50px;
+  margin-left: 250px;
+  background-color: white;
+  border: 5px solid white;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align: left;
+}
+.class{
+  height: 180px;
+  width: 300px;
+ 
+   
+}
+#ggg{
+  display: flex;
+  width: 900px;
+  height: 350px;
+  background-color: lightgray;
+  margin-top: 20px;
+  margin-left: 200px;
+
+
+}
+.fff{
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 300px;
+  height: 350px;
+  border: 5px solid;
+  background-color: white;
+}
+#ddd{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  
+}
+a:hover{
+  text-decoration: underline;
+}
+  
